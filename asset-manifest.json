@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/open-house-organa/static/css/main.5c4a0940.chunk.css",
+    "main.js": "/open-house-organa/static/js/main.bff452ff.chunk.js",
+    "main.js.map": "/open-house-organa/static/js/main.bff452ff.chunk.js.map",
+    "runtime~main.js": "/open-house-organa/static/js/runtime~main.c82830b6.js",
+    "runtime~main.js.map": "/open-house-organa/static/js/runtime~main.c82830b6.js.map",
+    "static/js/2.c242d352.chunk.js": "/open-house-organa/static/js/2.c242d352.chunk.js",
+    "static/js/2.c242d352.chunk.js.map": "/open-house-organa/static/js/2.c242d352.chunk.js.map",
+    "index.html": "/open-house-organa/index.html",
+    "precache-manifest.ad39e6d51f1af08ea62f33ff5b1388d2.js": "/open-house-organa/precache-manifest.ad39e6d51f1af08ea62f33ff5b1388d2.js",
+    "service-worker.js": "/open-house-organa/service-worker.js",
+    "static/css/main.5c4a0940.chunk.css.map": "/open-house-organa/static/css/main.5c4a0940.chunk.css.map"
+  }
+}
